@@ -126,6 +126,20 @@ div.nav {
     font-size: 14px;
 }
 
+div.footer{
+    text-align: center;
+    
+}
+
+#aaw {
+    max-width: 10%;
+}
+
+#dates {
+    max-width: 20%;
+}
+
+
 
 @media (max-width: 1800px) {
   .container {
