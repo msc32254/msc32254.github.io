@@ -83,9 +83,10 @@ a.pageTitle {
 div.header {
     background-color: #dfdfdfdf;
     outline: 1px solid #bbbbbb;
-    display: block;
-    float: left;
     width: 100%;
+    float: left;
+    display:block;
+    margin-bottom: 10px;
 }
 
 div.headerLeft {
@@ -121,9 +122,11 @@ div.pageTitle {
 }
 
 div.nav {
-    margin-top: 20px;
+    height: 20px;
+    padding:20px;
     text-align: center;
     font-size: 14px;
+    display:block;
 }
 
 div.footer{
