@@ -97,12 +97,17 @@ div.image {
 
 div.main{
     margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 div.pageTitle {
     padding: 0px;
 }
 
+div.nav {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+}
 
 
 @media (max-width: 1800px) {
