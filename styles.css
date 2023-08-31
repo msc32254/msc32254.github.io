@@ -115,7 +115,7 @@ div.image {
 
 div.main{
     margin-left: 50px;
-    margin-top: 10px;
+    padding-top: 10px;
 }
 div.pageTitle {
     padding: 0px;
@@ -134,19 +134,25 @@ div.footer{
     
 }
 
+#dodd {
+    max-width: 100px;
+}
+
 #aaw {
-    max-width: 10%;
+    max-width: 30px;
 }
 
 #dates {
-    max-width: 20%;
+    
+    max-width: 60px;
+    
 }
 
 
 
 @media (max-width: 1800px) {
   .container {
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }
 }
 
