@@ -116,17 +116,18 @@ div.image {
 div.main{
     margin-left: 50px;
     padding-top: 10px;
+    clear:both;
 }
 div.pageTitle {
     padding: 0px;
 }
 
 div.nav {
-    height: 20px;
-    padding:20px;
+    padding: 5px;
     text-align: center;
     font-size: 14px;
     display:block;
+    clear: both;
 }
 
 div.footer{
