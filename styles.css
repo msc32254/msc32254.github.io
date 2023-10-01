@@ -127,6 +127,7 @@ div.nav {
     font-size: 14px;
     display: block;
     clear: both;
+    content: "\25C0 \FE0E"
 }
 
 div.footer {
